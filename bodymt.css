@@ -24,6 +24,10 @@ h1 {
     text-align: center;
     padding: 15px;
     transition: transform 0.2s ease;
+    heigh:200px
+    width:200px
+    font-size:84px
+    color: pink
 }
 
 .box:hover {
